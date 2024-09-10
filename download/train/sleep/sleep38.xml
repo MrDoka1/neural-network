@@ -1,0 +1,38 @@
+<annotation>
+	<folder>download</folder>
+	<filename>sleep38.jpg</filename>
+	<path>C:\Users\mrdok\PycharmProjects\neural network\download\sleep38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>427</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sleep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>59</ymin>
+			<xmax>313</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>awake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>10</ymin>
+			<xmax>176</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

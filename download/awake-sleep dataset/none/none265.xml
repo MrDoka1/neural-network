@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>download</folder>
+  <filename>none265.jpg</filename>
+  <path>C:\Users\mrdok\PycharmProjects\neural network\download\none265.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>480</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>download</folder>
+	<filename>sleep694.jpg</filename>
+	<path>C:\Users\mrdok\PycharmProjects\neural network\download\sleep694.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sleep</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>7</ymin>
+			<xmax>480</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

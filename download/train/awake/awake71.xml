@@ -1,0 +1,26 @@
+<annotation>
+	<folder>download</folder>
+	<filename>awake71.jpg</filename>
+	<path>C:\Users\mrdok\PycharmProjects\neural network\download\awake71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>awake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>96</ymin>
+			<xmax>250</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>
