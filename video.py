@@ -4,7 +4,7 @@ import numpy as np
 
 # Загрузка модели
 # model = load_model('models/emotion_model.h5')
-model = load_model('models/clear_model_epoch_100.keras')
+model = load_model('models/clear_model_epoch_15.keras')
 # model = load_model('models/emotion_model_my-images.h5')
 
 # Словарь эмоций
